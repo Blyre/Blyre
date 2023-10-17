@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**Blyre/Blyre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Blyre/Blyre** is a ✨ _special_ ✨ .
 
 Here are some ideas to get you started:
 
@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about nothing
 - 📫 How to reach me: don't
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: nothing
+- ⚡ Fun fact:![MuaKissGIF](https://github.com/Blyre/Blyre/assets/72943157/7c69f4ca-d73b-4b16-8eec-5fb41c718423)
 
