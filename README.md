@@ -10,9 +10,6 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" height="30" width="40" 
-src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg">
-  <img align="center" height="26" width="30" src="https://github.com/DiogoRoseira/DiogoRoseira/blob/main/Icon/asm.png">
 </div>
 
 ### Learning ⚙
