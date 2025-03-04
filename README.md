@@ -1,14 +1,14 @@
-### Hi there 👋
-### Industrial Electronic Engineering and Computers at UMinho University!
-### MEng in Embedded Systems and Computers and Automation, Controls and Robotics by UMinho University! 🤖⚡💻
+### Hello there!
+### I studied Industrial Electronic Engineering and Computers at UMinho University and am currently working as DevOps Engineer.
 ---
 
 ## Programming Languages 
 
-### Skills 😜
+### Programming Languages
 <div style="display: inline_block">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
